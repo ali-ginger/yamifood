@@ -1,2 +1,2 @@
 # yamifood
-It's a Demo Restaurent Website.
+It's a Demo Restaurant Website.
